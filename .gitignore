@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+Working/
+
 # C extensions
 *.so
 
